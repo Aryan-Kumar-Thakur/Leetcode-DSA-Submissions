@@ -17,32 +17,45 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        map<Node*,Node*> mp;
         Node* anshead=NULL,*anstail=NULL;
         Node* temp=head;
         while(temp){
             Node* ele=new Node(temp->val);
             if(anshead==NULL){
-                anshead = anstail = ele;
+                anshead=anstail=ele;
             }
             else{
-                anstail->next = ele;
-                anstail = anstail->next;
+                anstail->next=ele;
+                anstail=ele;
             }
             temp=temp->next;
         }
-        Node* originalhead=head , *clonehead=anshead;
-        while(originalhead){
-            mp[originalhead]=clonehead;
-            clonehead=clonehead->next;
-            originalhead=originalhead->next;
+        Node* temp1=head,*temp2=anshead;
+        while(temp1){
+            Node* for1=temp1->next;
+            temp1->next=temp2;
+            Node* for2=temp2->next;
+            temp2->next=for1;
+            temp1=for1;
+            temp2=for2;
         }
-        originalhead=head;
-        clonehead=anshead;
-        while(originalhead){
-            clonehead->random = mp[originalhead->random];
-             clonehead=clonehead->next;
-            originalhead=originalhead->next;
+        temp1=head;
+        while(temp1){
+            if(temp1->next){
+            if(temp1->random){
+            temp1->next->random=temp1->random->next;
+            }
+            }
+            temp1=temp1->next->next;
+        }
+        temp1=head,temp2=anshead;
+        while(temp1){
+            temp1->next=temp2->next;
+            if(temp1->next){
+            temp2->next=temp1->next->next;
+            }
+            temp2=temp2->next;
+            temp1=temp1->next;
         }
         return anshead;
     }
