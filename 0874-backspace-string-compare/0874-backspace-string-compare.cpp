@@ -32,8 +32,17 @@ public:
                     break;
                 }
             }
-            char c1=(i<0) ? '$':s[i];
-            char c2=(j<0) ? '$':t[j];
+            char c1,c2;
+            if((i<0 && j>=0) || (j<0 && i>=0)){
+                return false;
+            }
+            else if(i<0 && j<0){
+                break;
+            }
+            else{
+            c1=s[i];
+            c2=t[j];
+            }
             if(c1!=c2){
                 return false;
             }
