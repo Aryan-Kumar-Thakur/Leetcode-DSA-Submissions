@@ -1,34 +1,51 @@
-class Solution {
-public:
-    string longestPalindrome(string s) {
-        string ans="";
-        int n=s.size();
-        for(int i=0;i<n;i++){
-            int l = (i>0) ? i-1 : -1;
-            int r = (i<n-1) ? i+1 : n;
-            while(l>0 && s[l]==s[i]){
-                l--;
+class Solution
+{
+    public:
+        string longestPalindrome(string s)
+        {
+            int ini = 0, len = INT_MIN;
+            int n = s.size();
+            int lo,hi;
+            for (int i = 0; i < n; i++)
+            {
+             lo=i-1;
+             hi=i+1;
+            while(lo>=0 && s[i]==s[lo]){
+                lo--;
             }
-            while(r<n && s[r]==s[i]){
-                r++;
+            while(hi<n && s[i]==s[hi]){
+                hi++;
             }
-            while(l>=0 && r<n){
-                if(s[l]==s[r]){
-                    l--;
-                    r++;
-                }
-                else{
-                    break;
-                }
+            while(lo>=0 && hi<n && s[lo]==s[hi]){
+                lo--;
+                hi++;
             }
-            // cout<<l<<" "<<r<<endl;
-            l++;
-            r--;
-            string x=s.substr(l,(r-l)+1);
-            if(x.size()>ans.size()){
-                ans=x;
+            if(hi-lo-1 > len){
+                len=hi-lo-1;
+                ini=lo+1;
             }
         }
-        return ans;
-    }
+            //     l = i - 1;
+            //     r = i + 1;
+            //     while (l >= 0 && s[i] == s[l])
+            //     {
+            //         l--;
+            //     }
+            //     while (r < n && s[r] == s[i])
+            //     {
+            //         r++;
+            //     }
+            //     while (l >= 0 && r < n && s[l] == s[r])
+            //     {
+            //         l++;
+            //         r++;
+            //     }
+            //     if ((r - l - 1) > len)
+            //     {
+            //         len = (r - l - 1);
+            //         ini = l + 1;
+            //     }
+
+            return s.substr(ini,len);
+        }
 };
