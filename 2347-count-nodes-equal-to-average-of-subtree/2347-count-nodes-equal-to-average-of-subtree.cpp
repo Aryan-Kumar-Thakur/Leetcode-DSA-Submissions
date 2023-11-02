@@ -11,26 +11,27 @@
  */
 class Solution {
     int res=0;
-    int findsum(TreeNode* root,int &cnt){
+    // int findsum(TreeNode* root,int &cnt){
+    //     if(!root){
+    //         return 0;
+    //     }
+    //     cnt++;
+    //     int left = findsum(root->left,cnt);
+    //     int right = findsum(root->right,cnt);
+    //     return (left+right+root->val);
+    // }
+    pair<int,int> solve(TreeNode* root){
         if(!root){
-            return 0;
+            return {0,0};
         }
-        cnt++;
-        int left = findsum(root->left,cnt);
-        int right = findsum(root->right,cnt);
-        return (left+right+root->val);
-    }
-    void solve(TreeNode* root){
-        if(!root){
-            return;
-        }
-        int cnt=0;
-        int sum=findsum(root,cnt);
+        pair<int,int> left=solve(root->left);
+        pair<int,int> right=solve(root->right);
+        int sum=left.first+right.first+root->val;
+        int cnt=left.second+right.second+1;
         if(root->val == (sum/cnt)){
             res+=1;
         }
-        solve(root->left);
-        solve(root->right);
+        return {sum,cnt};
     }
 public:
     int averageOfSubtree(TreeNode* root) {
