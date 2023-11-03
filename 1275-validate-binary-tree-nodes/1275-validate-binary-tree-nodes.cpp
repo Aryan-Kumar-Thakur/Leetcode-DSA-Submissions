@@ -1,30 +1,38 @@
 class Solution {
-    int countnodes(int root,vector<int>& leftChild, vector<int>& rightChild){
-        if(root==-1){
+    int countnodes(int root,vector<int> &leftchild,vector<int> &rightchild){
+        if(root == -1){
             return 0;
         }
-        return 1+countnodes(leftChild[root],leftChild,rightChild)+countnodes(rightChild[root],leftChild,rightChild);
+        return 1 + countnodes(leftchild[root],leftchild,rightchild) + countnodes(rightchild[root],leftchild,rightchild);
     }
 public:
-    bool validateBinaryTreeNodes(int n, vector<int>& leftChild, vector<int>& rightChild) {
+    bool validateBinaryTreeNodes(int n, vector<int>& leftchild, vector<int>& rightchild) {
         vector<int> indegree(n,0);
-        int root=-1;
         for(int i=0;i<n;i++){
-            if(leftChild[i]!=-1 && indegree[leftChild[i]]++ == 1){
+            if(leftchild[i]!=-1 && indegree[leftchild[i]] < 2){
+                indegree[leftchild[i]]++;
+            }
+            else if(leftchild[i]!=-1){
                 return false;
             }
-            else if(rightChild[i]!=-1 && indegree[rightChild[i]]++ == 1){
+            if(rightchild[i]!=-1 && indegree[rightchild[i]] < 2){
+                indegree[rightchild[i]]++;
+            }
+            else if(rightchild[i]!=-1){
                 return false;
             }
         }
+        int cnt=0;
+        int s=0;
         for(int i=0;i<n;i++){
             if(indegree[i]==0){
-                if(root!=-1){
-                    return false;
-                }
-                root=i;
+                s=i;
+                cnt++;
             }
         }
-        return countnodes(root,leftChild,rightChild) == n;
+        if(cnt!=1){
+            return false;
+        }
+        return countnodes(s,leftchild,rightchild) == n;
     }
 };
