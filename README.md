@@ -22,7 +22,16 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
 # Prefix Sum
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
