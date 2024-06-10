@@ -5,6 +5,7 @@ Collection of LeetCode questions Submissions of  mine!
 # Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0409-longest-palindrome) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions Submissions of  mine!
 # Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
@@ -35,3 +37,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0073-set-matrix-zeroes) |
