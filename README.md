@@ -9,6 +9,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0409-longest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0409-longest-palindrome) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1217-relative-sort-array) |
 # String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1217-relative-sort-array) |
 # Prefix Sum
 |  |
 | ------- |
@@ -33,10 +35,12 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1217-relative-sort-array) |
 # Matrix
 |  |
 | ------- |
