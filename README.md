@@ -23,6 +23,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0118-pascals-triangle) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
@@ -45,3 +46,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0073-set-matrix-zeroes) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0118-pascals-triangle) |
