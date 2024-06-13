@@ -19,6 +19,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Prefix Sum
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0075-sort-colors](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
