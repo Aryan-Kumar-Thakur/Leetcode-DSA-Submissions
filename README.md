@@ -29,6 +29,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Two Pointers
 |  |
 | ------- |
