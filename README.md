@@ -24,6 +24,7 @@ Collection of LeetCode questions Submissions of  mine!
 # Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0118-pascals-triangle) |
@@ -62,4 +63,5 @@ Collection of LeetCode questions Submissions of  mine!
 # Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0075-sort-colors) |
