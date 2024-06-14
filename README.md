@@ -33,6 +33,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0088-merge-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0031-next-permutation](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0287-find-the-duplicate-number) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -84,3 +86,11 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0048-rotate-image) |
+# Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0287-find-the-duplicate-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0287-find-the-duplicate-number) |
