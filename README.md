@@ -30,6 +30,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0056-merge-intervals](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0056-merge-intervals](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0088-merge-sorted-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1217-relative-sort-array) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0031-next-permutation](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0088-merge-sorted-array) |
 # Divide and Conquer
 |  |
 | ------- |
