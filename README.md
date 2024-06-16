@@ -37,6 +37,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0330-patching-array) |
+| [0493-reverse-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0493-reverse-pairs) |
 # Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0493-reverse-pairs) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -103,3 +106,19 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0502-ipo) |
+# Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0493-reverse-pairs) |
+# Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0493-reverse-pairs) |
+# Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0493-reverse-pairs) |
+# Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0493-reverse-pairs) |
