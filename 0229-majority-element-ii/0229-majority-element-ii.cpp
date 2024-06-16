@@ -1,24 +1,23 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int cnt1=0,cnt2=0;
-        int x=INT_MAX,y=INT_MAX;
-        vector<int> ans;
         int n=nums.size();
-        for(auto it:nums){
-            if(cnt1==0 && y!=it){
-                x=it;
+        int cnt1=0,cnt2=0;
+        int ele1=0,ele2=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]==ele1){
                 cnt1++;
             }
-            else if(cnt2==0 && x!=it){
-                y=it;
+            else if(nums[i]==ele2){
                 cnt2++;
             }
-            else if(x==it){
-                cnt1++;
+            else if(cnt1==0 && nums[i]!=ele2){
+                ele1=nums[i];
+                cnt1=1;
             }
-            else if(y==it){
-                cnt2++;
+            else if(cnt2==0 && nums[i]!=ele1){
+                ele2=nums[i];
+                cnt2=1;
             }
             else{
                 cnt1--;
@@ -26,24 +25,20 @@ public:
             }
         }
         cnt1=0,cnt2=0;
-        int val=(n/3)+1;
-        for(auto it:nums){
-            if(x==it){
+        for(int i=0;i<n;i++){
+            if(nums[i]==ele1){
                 cnt1++;
             }
-            if(y==it){
+            else if(nums[i]==ele2){
                 cnt2++;
             }
-            if(cnt1==val){
-                ans.push_back(it);
-                cnt1=0;
-                x=INT_MAX;
-            }
-            if(cnt2==val){
-                ans.push_back(it);
-                cnt2=0;
-                y=INT_MAX;
-            }
+        }
+        vector<int> ans;
+        if(cnt1>(n/3)){
+            ans.push_back(ele1);
+        }
+        if(cnt2>(n/3)){
+            ans.push_back(ele2);
         }
         return ans;
     }
