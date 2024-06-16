@@ -18,6 +18,7 @@ Collection of LeetCode questions Submissions of  mine!
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0118-pascals-triangle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
