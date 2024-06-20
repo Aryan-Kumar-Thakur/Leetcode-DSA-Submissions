@@ -49,6 +49,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Prefix Sum
 |  |
@@ -66,6 +67,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
@@ -111,6 +113,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0287-find-the-duplicate-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0493-reverse-pairs) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1675-magnetic-force-between-two-balls) |
 # Bit Manipulation
 |  |
 | ------- |
