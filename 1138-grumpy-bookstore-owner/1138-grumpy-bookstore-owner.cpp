@@ -1,26 +1,34 @@
 class Solution {
 public:
     int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
-        int initialSatisfaction = 0;
-        int maxExtraSatisfaction = 0;
-        int currentWindowSatisfaction = 0;
-        
-        for (int i = 0; i < customers.size(); ++i) {
-            if (grumpy[i] == 0) {
-                initialSatisfaction += customers[i];
-            } else if (i < minutes) {
-                currentWindowSatisfaction += customers[i];
+        int sum=0;
+        int res=0;
+        int n=customers.size();
+        for(int i=0;i<n;i++){
+            if(grumpy[i]==0){
+                sum+=customers[i];
             }
         }
-        
-        maxExtraSatisfaction = currentWindowSatisfaction;
-        
-        for (int i = minutes; i < customers.size(); ++i) {
-            currentWindowSatisfaction += customers[i] * grumpy[i];
-            currentWindowSatisfaction -= customers[i - minutes] * grumpy[i - minutes];
-            maxExtraSatisfaction = max(maxExtraSatisfaction, currentWindowSatisfaction);
+        int i=0,j=0;
+        while(j<n){
+            if(minutes<=0){
+                if(grumpy[i]==1){
+                    sum-=customers[i];
+                }
+                minutes++;
+                i++;
+            }
+            if(minutes>0){
+                if(grumpy[j]==1){
+                    sum+=customers[j];
+                }
+            }
+            // cout<<sum<<endl;
+            res=max(res,sum);
+            minutes--;
+            j++;
         }
-        
-        return initialSatisfaction + maxExtraSatisfaction;   
+        res=max(res,sum);
+        return res;
     }
 };
