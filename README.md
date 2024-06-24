@@ -46,6 +46,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0502-ipo](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1138-grumpy-bookstore-owner) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,5 +152,10 @@ Collection of LeetCode questions Submissions of  mine!
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
