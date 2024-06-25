@@ -159,3 +159,19 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
