@@ -25,6 +25,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0409-longest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
@@ -107,6 +108,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0053-maximum-subarray](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0493-reverse-pairs) |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 # Math
 |  |
 | ------- |
@@ -163,15 +165,19 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1285-balance-a-binary-search-tree) |
