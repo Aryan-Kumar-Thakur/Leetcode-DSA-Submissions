@@ -185,3 +185,10 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
