@@ -220,6 +220,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -238,4 +239,8 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
