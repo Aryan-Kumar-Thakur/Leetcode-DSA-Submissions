@@ -190,6 +190,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0141-linked-list-cycle) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
