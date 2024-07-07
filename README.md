@@ -192,6 +192,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1293-three-consecutive-odds) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -259,5 +261,14 @@ Collection of LeetCode questions Submissions of  mine!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
