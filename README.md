@@ -198,11 +198,13 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -216,6 +218,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
