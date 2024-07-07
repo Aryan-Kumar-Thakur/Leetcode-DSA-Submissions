@@ -220,11 +220,13 @@ Collection of LeetCode questions Submissions of  mine!
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2645-pass-the-pillow) |
 ## Union Find
 |  |
