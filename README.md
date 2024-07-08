@@ -193,6 +193,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -288,4 +289,8 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
