@@ -196,6 +196,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 | [1293-three-consecutive-odds](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -220,6 +221,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
 | ------- |
@@ -281,4 +284,8 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
