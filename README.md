@@ -193,6 +193,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0141-linked-list-cycle) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0046-permutations) |
@@ -309,4 +312,8 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
