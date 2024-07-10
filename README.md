@@ -259,6 +259,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0060-permutation-sequence) |
 | [1642-water-bottles](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2645-pass-the-pillow) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
