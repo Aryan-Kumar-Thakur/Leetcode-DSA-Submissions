@@ -233,6 +233,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0142-linked-list-cycle-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 ## Binary Search
@@ -247,6 +248,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
+| [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 ## Linked List
@@ -341,4 +343,16 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
