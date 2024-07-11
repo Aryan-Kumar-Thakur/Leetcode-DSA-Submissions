@@ -283,6 +283,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
 |  |
@@ -311,6 +312,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
 ## Matrix
 |  |
