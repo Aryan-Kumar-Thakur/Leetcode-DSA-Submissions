@@ -193,6 +193,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0040-combination-sum-ii) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
