@@ -8,19 +8,19 @@ public:
     }
     
     void addNum(int num) {
-        mini.push(num);
-        maxi.push(mini.top());
-        mini.pop();
-        if(maxi.size()>mini.size()){
-            mini.push(maxi.top());
-            maxi.pop();
+        maxi.push(num);
+        mini.push(maxi.top());
+        maxi.pop();
+        if(mini.size()>maxi.size()){
+            maxi.push(mini.top());
+            mini.pop();
         }
         cnt++;
     }
     
     double findMedian() {
         if(cnt&1){
-            return mini.top();
+            return maxi.top();
         }
         else{
             return (double)(maxi.top()+mini.top())/2.0;
