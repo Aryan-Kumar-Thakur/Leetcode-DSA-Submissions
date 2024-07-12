@@ -1,9 +1,10 @@
 class MedianFinder {
+    priority_queue<int> maxi;
+    priority_queue<int,vector<int>,greater<int>> mini;
+    int cnt;
 public:
-priority_queue<int> maxi;
-priority_queue<int,vector<int>,greater<int>> mini;
     MedianFinder() {
-        
+        cnt=0;
     }
     
     void addNum(int num) {
@@ -14,14 +15,15 @@ priority_queue<int,vector<int>,greater<int>> mini;
             mini.push(maxi.top());
             maxi.pop();
         }
+        cnt++;
     }
     
     double findMedian() {
-        if(maxi.size()==mini.size()){
-            return (double)(maxi.top()+mini.top())/2.0;
+        if(cnt&1){
+            return mini.top();
         }
         else{
-            return mini.top();
+            return (double)(maxi.top()+mini.top())/2.0;
         }
     }
 };
