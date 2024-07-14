@@ -220,6 +220,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0138-copy-list-with-random-pointer](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
@@ -385,4 +388,8 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
