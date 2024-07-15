@@ -230,6 +230,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
 ## Monotonic Stack
@@ -342,6 +344,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
 | [0726-number-of-atoms](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
