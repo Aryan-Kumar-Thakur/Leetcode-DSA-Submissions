@@ -354,6 +354,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0012-integer-to-roman](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0038-count-and-say) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
 | [0686-repeated-string-match](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0686-repeated-string-match) |
 | [0726-number-of-atoms](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0726-number-of-atoms) |
