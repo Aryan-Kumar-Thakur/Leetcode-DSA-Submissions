@@ -10,6 +10,7 @@
  * };
  */
 class Solution {
+    int res=0;
     pair<int,int> solve(TreeNode* root){
         if(!root){
             return {0,0};
@@ -18,7 +19,8 @@ class Solution {
         pair<int,int> r=solve(root->right);
         pair<int,int> ans;
         ans.first=l.second+r.second;
-        ans.second=max(l.second,r.second+1);
+        ans.second=max(l.second,r.second)+1;
+        res=max(res,ans.first);
         return ans;
     }
 public:
@@ -26,7 +28,7 @@ public:
         if(!root){
             return 0;
         }
-        pair<int,int> ans=solve(root);
-        return ans.first;
+        solve(root);
+        return res;
     }
 };
