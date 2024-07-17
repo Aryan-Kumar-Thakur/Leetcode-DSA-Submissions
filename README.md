@@ -327,6 +327,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
 ## Monotonic Stack
 |  |
@@ -450,6 +451,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -460,6 +462,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -471,6 +474,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
