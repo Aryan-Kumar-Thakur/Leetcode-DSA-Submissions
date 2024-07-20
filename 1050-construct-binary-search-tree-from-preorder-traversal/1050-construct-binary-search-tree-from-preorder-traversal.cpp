@@ -10,30 +10,19 @@
  * };
  */
 class Solution {
-    int find(vector<int> &preorder,int s,int e){
-        for(int i=s+1;i<=e;i++){
-            if(preorder[i]>preorder[s]){
-                return i;
-            }
-        }
-        return e+1;
-    }
-    TreeNode* solve(vector<int> &preorder,int s,int e){
-        if(s>e){
+    int ind=0;
+    TreeNode* solve(vector<int> &preorder,int ub,int n){
+        if(ind==n || preorder[ind]>ub){
             return NULL;
         }
-        TreeNode* root=new TreeNode(preorder[s]);
-        if(s==e){
-            return root;
-        }
-        int ind=find(preorder,s,e);
-        root->left=solve(preorder,s+1,ind-1);
-        root->right=solve(preorder,ind,e);
+        TreeNode* root=new TreeNode(preorder[ind++]);
+        root->left=solve(preorder,root->val,n);
+        root->right=solve(preorder,ub,n);
         return root;
     }
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
         int n=preorder.size();
-        return solve(preorder,0,n-1);
+        return solve(preorder,INT_MAX,n);
     }
 };
