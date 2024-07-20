@@ -10,19 +10,19 @@
  * };
  */
 class Solution {
-    TreeNode* solve(int s,int e,vector<int>& nums){
+    TreeNode* solve(vector<int> &nums,int s,int e){
         if(s>e){
             return NULL;
         }
-        int mid=s + (e-s)/2;
+        int mid=(s+e)/2;
         TreeNode* root=new TreeNode(nums[mid]);
-        root->left=solve(s,mid-1,nums);
-        root->right=solve(mid+1,e,nums);
+        root->left=solve(nums,s,mid-1);
+        root->right=solve(nums,mid+1,e);
         return root;
     }
 public:
     TreeNode* sortedArrayToBST(vector<int>& nums) {
         int n=nums.size();
-        return solve(0,n-1,nums);
+        return solve(nums,0,n-1);
     }
 };
