@@ -471,6 +471,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -514,4 +516,8 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1508-longest-happy-prefix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
