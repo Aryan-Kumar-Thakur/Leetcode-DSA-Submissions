@@ -17,32 +17,27 @@ public:
 */
 
 class Solution {
-public:
-    Node* connect(Node* root) {
-        if(root==NULL){
-            return root;
+    void solve(Node* root){
+        if(!root){
+            return;
         }
-        queue<Node*> q;
-        q.push(root);
-        while(!q.empty()){
-            int x=q.size();
-            for(int i=0;i<x;i++){
-                Node* ele=q.front();
-                q.pop();
-                if(i==x-1){
-                    ele->next=NULL;
-                }
-                else{
-                    ele->next=q.front();
-                }
-                if(ele->left){
-                    q.push(ele->left);
-                }
-                if(ele->right){
-                    q.push(ele->right);
-                }
+        if(root->left){
+            root->left->next=root->right;
+        }
+        if(root->right){
+            if(root->next){
+                root->right->next=root->next->left;
+            }
+            else{
+                root->right->next=NULL;
             }
         }
+        solve(root->left);
+        solve(root->right);
+    }
+public:
+    Node* connect(Node* root) {
+        solve(root);
         return root;
     }
 };
