@@ -1,22 +1,40 @@
 class Solution {
+private:
+    int dpi[1000][3];
+    int fi(int idx, int cnt, vector<int> &rating) {
+        // base cases
+        if(cnt == 3) return 1;
+        if(dpi[idx][cnt] != -1) return dpi[idx][cnt];
+
+        int res = 0;
+        for(int i=idx+1; i<rating.size(); ++i) {
+            if(rating[i] <= rating[idx]) continue;
+            res += fi(i, cnt+1, rating);
+        }
+        return dpi[idx][cnt] = res;
+    }
+    int dpd[1000][3];
+    int fd(int idx, int cnt, vector<int> &rating) {
+        // base cases
+        if(cnt == 3) return 1;
+        if(dpd[idx][cnt] != -1) return dpd[idx][cnt];
+
+        int res = 0;
+        for(int i=idx+1; i<rating.size(); ++i) {
+            if(rating[i] >= rating[idx]) continue;
+            res += fd(i, cnt+1, rating);
+        }
+        return dpd[idx][cnt] = res;
+    }
 public:
     int numTeams(vector<int>& rating) {
-        const int n = rating.size();
-        int cnt= 0;
-        for (int i= 1; i < n-1; i++) {
-            int L[2]={0}, R[2]={0};
-
-            // Count ratings on the left of i
-            for (int j = 0; j < i; j++) 
-                L[rating[j] < rating[i]]++;//rating is unique
-            
-            // Count ratings on the right of i
-            for (int k=i+1; k<n; k++) 
-                R[rating[k] < rating[i]]++;
-
-            // number of valid teams
-            cnt += L[0]*R[1] + L[1]*R[0];
+        int res = 0;
+        memset(dpi, -1, sizeof(dpi));
+        memset(dpd, -1, sizeof(dpd));
+        for(int i=0; i<rating.size(); ++i) {
+            res += fi(i,1,rating);
+            res += fd(i,1,rating);
         }
-        return cnt;
+        return res;
     }
 };
