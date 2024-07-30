@@ -334,6 +334,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
 |  |
@@ -343,6 +344,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
 | [1511-count-number-of-teams](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -386,6 +388,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1508-longest-happy-prefix) |
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
