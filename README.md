@@ -343,6 +343,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
@@ -493,6 +494,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
@@ -511,6 +513,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
@@ -534,6 +537,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Rolling Hash
 |  |
@@ -552,6 +556,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Graph
 |  |
 | ------- |
