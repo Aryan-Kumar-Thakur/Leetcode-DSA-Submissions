@@ -1,29 +1,27 @@
 class MedianFinder {
-    priority_queue<int> maxi;
-    priority_queue<int,vector<int>,greater<int>> mini;
-    int cnt;
 public:
+priority_queue<int> maxi;
+priority_queue<int,vector<int>,greater<int>> mini;
     MedianFinder() {
-        cnt=0;
+        
     }
     
     void addNum(int num) {
         maxi.push(num);
         mini.push(maxi.top());
         maxi.pop();
-        if(mini.size()>maxi.size()){
+        if(mini.size() > maxi.size()){
             maxi.push(mini.top());
             mini.pop();
         }
-        cnt++;
     }
     
     double findMedian() {
-        if(cnt&1){
-            return maxi.top();
+        if(maxi.size()==mini.size()){
+            return (maxi.top() + mini.top())/2.0;
         }
         else{
-            return (double)(maxi.top()+mini.top())/2.0;
+            return maxi.top();
         }
     }
 };
