@@ -219,6 +219,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -454,6 +455,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0239-sliding-window-maximum) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
