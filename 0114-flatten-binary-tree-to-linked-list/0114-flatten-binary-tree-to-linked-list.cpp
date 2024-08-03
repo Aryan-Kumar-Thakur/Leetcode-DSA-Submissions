@@ -24,8 +24,8 @@ class Solution {
             return;
         }
         if(root->left){
-            TreeNode* succ=find(root->left);
-            succ->right=root->right;
+            TreeNode* temp=find(root->left);
+            temp->right=root->right;
             root->right=root->left;
             root->left=NULL;
             solve(root->right);
@@ -36,9 +36,6 @@ class Solution {
     }
 public:
     void flatten(TreeNode* root) {
-        if(!root){
-            return;
-        }
         solve(root);
     }
 };
