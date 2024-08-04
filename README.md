@@ -217,6 +217,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1511-count-number-of-teams) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1803-average-waiting-time) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,6 +271,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +283,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 | [0726-number-of-atoms](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
 |  |
 | ------- |
