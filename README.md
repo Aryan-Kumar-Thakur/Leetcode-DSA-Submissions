@@ -201,6 +201,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -413,6 +415,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1036-rotting-oranges) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
