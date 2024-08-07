@@ -278,6 +278,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -323,6 +324,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0013-roman-to-integer](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0060-permutation-sequence) |
 | [0273-integer-to-english-words](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0273-integer-to-english-words) |
+| [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
 | [1642-water-bottles](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2645-pass-the-pillow) |
@@ -366,6 +368,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1511-count-number-of-teams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
