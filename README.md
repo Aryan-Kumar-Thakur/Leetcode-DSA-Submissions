@@ -215,6 +215,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0733-flood-fill) |
+| [0921-spiral-matrix-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions Submissions of  mine!
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0037-sudoku-solver](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0733-flood-fill) |
+| [0921-spiral-matrix-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1036-rotting-oranges) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
