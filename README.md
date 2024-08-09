@@ -215,6 +215,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0733-flood-fill) |
+| [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0013-roman-to-integer](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0060-permutation-sequence) |
 | [0273-integer-to-english-words](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
 | [1642-water-bottles](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -432,6 +435,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0037-sudoku-solver](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0733-flood-fill) |
+| [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1036-rotting-oranges) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
