@@ -207,6 +207,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
+| [0200-number-of-islands](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0322-coin-change) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0999-regions-cut-by-slashes) |
 ## Recursion
 |  |
@@ -447,6 +449,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0921-spiral-matrix-iii) |
@@ -526,6 +529,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -577,6 +581,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
