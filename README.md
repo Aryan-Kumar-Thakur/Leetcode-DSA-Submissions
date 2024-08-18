@@ -254,6 +254,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0142-linked-list-cycle-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0264-ugly-number-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0726-number-of-atoms) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0012-integer-to-roman](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0060-permutation-sequence) |
+| [0264-ugly-number-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
@@ -386,6 +388,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
+| [0264-ugly-number-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -492,6 +495,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
