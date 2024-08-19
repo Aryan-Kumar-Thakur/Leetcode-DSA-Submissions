@@ -342,6 +342,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0060-permutation-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0060-permutation-sequence) |
 | [0264-ugly-number-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
 | [1642-water-bottles](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1642-water-bottles) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0650-2-keys-keyboard](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0650-2-keys-keyboard) |
 | [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
