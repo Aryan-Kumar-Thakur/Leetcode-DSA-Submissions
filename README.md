@@ -394,6 +394,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0322-coin-change](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0664-strange-printer) |
 | [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -444,6 +445,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0165-compare-version-numbers](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0165-compare-version-numbers) |
 | [0273-integer-to-english-words](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0664-strange-printer](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0664-strange-printer) |
 | [0686-repeated-string-match](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0686-repeated-string-match) |
 | [0726-number-of-atoms](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
