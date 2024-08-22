@@ -678,4 +678,8 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
