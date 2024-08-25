@@ -10,25 +10,22 @@
  * };
  */
 class Solution {
-    TreeNode* find(TreeNode* temp,TreeNode* root){
-        while(temp->right && temp->right!=root){
-            temp=temp->right;
-        }
-        return temp;
-    }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
         while(root){
-            if(root->left){
-                TreeNode* succ=find(root->left,root);
-                if(succ->right==root){
-                    succ->right=NULL;
+            TreeNode* curr=root->left;
+            if(curr){
+                while(curr->right && curr->right!=root){
+                    curr=curr->right;
+                }
+                if(curr->right==root){
+                    curr->right=NULL;
                     ans.push_back(root->val);
                     root=root->right;
                 }
                 else{
-                    succ->right=root;
+                    curr->right=root;
                     root=root->left;
                 }
             }
