@@ -220,6 +220,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1036-rotting-oranges) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1803-average-waiting-time) |
