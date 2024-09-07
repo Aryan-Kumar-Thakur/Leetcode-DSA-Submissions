@@ -331,6 +331,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0146-lru-cache](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
@@ -571,6 +572,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0999-regions-cut-by-slashes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1036-rotting-oranges) |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## String Matching
 |  |
@@ -603,6 +605,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
@@ -630,6 +633,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
@@ -656,6 +660,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Rolling Hash
 |  |
