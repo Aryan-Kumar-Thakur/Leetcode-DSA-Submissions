@@ -331,6 +331,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0146-lru-cache](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
