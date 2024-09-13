@@ -228,6 +228,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -715,9 +716,14 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
