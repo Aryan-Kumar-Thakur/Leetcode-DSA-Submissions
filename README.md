@@ -271,6 +271,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0999-regions-cut-by-slashes](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0686-repeated-string-match](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0686-repeated-string-match) |
 | [0726-number-of-atoms](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1508-longest-happy-prefix) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
@@ -722,6 +724,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0476-number-complement](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
@@ -732,6 +735,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Brainteaser
 |  |
 | ------- |
