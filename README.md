@@ -361,6 +361,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0012-integer-to-roman](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0060-permutation-sequence) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0539-minimum-time-difference) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -417,6 +419,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0322-coin-change) |
@@ -473,6 +476,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0539-minimum-time-difference) |
@@ -515,6 +519,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0139-word-break](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
