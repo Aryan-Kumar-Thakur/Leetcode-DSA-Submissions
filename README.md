@@ -476,6 +476,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -598,6 +599,7 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1508-longest-happy-prefix) |
 ## Tree
@@ -685,10 +687,12 @@ Collection of LeetCode questions Submissions of  mine!
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1508-longest-happy-prefix) |
 ## Binary Search Tree
 |  |
