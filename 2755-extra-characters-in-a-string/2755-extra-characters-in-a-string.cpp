@@ -7,9 +7,10 @@ class Solution {
             return dp[ind];
         }
         int ans=INT_MAX;
+        string x="";
         for(int i=ind;i<n;i++){
-            string k=s.substr(ind,i-ind+1);
-            if(st.find(k)!=st.end()){
+            x+=s[i];
+            if(st.find(x)!=st.end()){
                 ans=min(ans,solve(i+1,n,s,st,dp));
             }
             ans=min(ans,1+solve(ind+1,n,s,st,dp));
