@@ -244,6 +244,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -274,6 +275,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -432,6 +434,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1511-count-number-of-teams](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1511-count-number-of-teams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2755-extra-characters-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -494,6 +497,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
@@ -515,6 +519,7 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0139-word-break](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
