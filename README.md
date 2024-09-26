@@ -220,6 +220,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0906-walking-robot-simulation) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0729-my-calendar-i) |
 | [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
@@ -549,6 +551,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0232-implement-queue-using-stacks](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0729-my-calendar-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0729-my-calendar-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -766,4 +769,12 @@ Collection of LeetCode questions Submissions of  mine!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
