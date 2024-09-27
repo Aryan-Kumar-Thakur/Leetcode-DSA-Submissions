@@ -1,19 +1,20 @@
 class MyCalendar {
-    map<int, int> intervals;
+    vector<pair<int, int>> intervals;
+    bool isoverlap(int s1,int e1,int s2,int e2){
+        return (max(s1,s2) < min(e1,e2));
+    }
 public:
     MyCalendar() {
         
     }
     
     bool book(int start, int end) {
-        auto next = intervals.lower_bound(start); // Find next interval
-        if (next != intervals.end() && next->first < end) {
-            return false; // Overlaps with next interval
+        for(auto it:intervals){
+            if(isoverlap(it.first,it.second,start,end)){
+                return false;
+            }
         }
-        if (next != intervals.begin() && prev(next)->second > start) {
-            return false; // Overlaps with previous interval
-        }
-        intervals[start] = end; // No overlap, add interval
+        intervals.push_back({start,end});
         return true;
     }
 };
