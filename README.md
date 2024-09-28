@@ -223,6 +223,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0729-my-calendar-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0733-flood-fill) |
+| [0859-design-circular-deque](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0921-spiral-matrix-iii) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -453,6 +455,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0225-implement-stack-using-queues](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
@@ -555,6 +558,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0859-design-circular-deque) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
