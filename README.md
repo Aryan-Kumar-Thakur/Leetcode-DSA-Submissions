@@ -250,6 +250,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [2472-build-a-matrix-with-conditions](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -307,6 +309,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
