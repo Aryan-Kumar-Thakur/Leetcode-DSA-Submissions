@@ -243,6 +243,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1803-average-waiting-time) |
+| [1923-sentence-similarity-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0567-permutation-in-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -517,6 +519,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2755-extra-characters-in-a-string) |
