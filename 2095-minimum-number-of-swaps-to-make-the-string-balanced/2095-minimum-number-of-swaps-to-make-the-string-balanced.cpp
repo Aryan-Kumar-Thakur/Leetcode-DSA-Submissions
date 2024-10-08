@@ -1,21 +1,15 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        int n=s.size();
-        stack<char> st;
-        for(auto it:s){
-            if(!st.empty() && it==']' && st.top()=='['){
-                st.pop();
-            }
-            else{
-                st.push(it);
-            }
+         int size = 0;
+        int n = s.size();
+        for (int i = 0; i < n; i++) {
+            char ch = s[i];
+            if (ch == '[')
+                size++;
+            else if (size > 0) 
+                size--;
         }
-        int x=st.size();
-        int ans=x/4;
-        if(x%4!=0){
-            ans++;
-        }
-        return ans;
+        return (size + 1) / 2;
     }
 };
