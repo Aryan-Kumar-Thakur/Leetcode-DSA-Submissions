@@ -246,6 +246,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1803-average-waiting-time](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -589,6 +591,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [1325-path-with-maximum-probability](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1325-path-with-maximum-probability) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Data Stream
 |  |
 | ------- |
