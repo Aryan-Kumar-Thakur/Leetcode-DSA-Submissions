@@ -10,7 +10,7 @@ public:
             pq.push({nums[i][0],0,i});
             maxi=max(maxi,nums[i][0]);
         }
-        while(!pq.empty() && pq.size()==n){
+        while(!pq.empty()){
             int mini=pq.top()[0];
             int ind=pq.top()[1];
             int arr=pq.top()[2];
@@ -22,6 +22,9 @@ public:
             if(ind<nums[arr].size()-1){
                 pq.push({nums[arr][ind+1],ind+1,arr});
                 maxi=max(maxi,nums[arr][ind+1]);
+            }
+            else{
+                break;
             }
         }
         return res;
