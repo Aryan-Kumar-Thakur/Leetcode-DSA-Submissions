@@ -490,6 +490,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1304-longest-happy-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -531,6 +532,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0686-repeated-string-match](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0686-repeated-string-match) |
 | [0726-number-of-atoms](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1508-longest-happy-prefix) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -601,6 +603,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0295-find-median-from-data-stream](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
