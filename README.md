@@ -401,6 +401,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0564-find-the-closest-palindrome](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0923-super-egg-drop) |
 | [1642-water-bottles](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1642-water-bottles) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0455-assign-cookies](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1304-longest-happy-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
