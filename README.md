@@ -250,6 +250,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -509,6 +510,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0046-permutations](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
 | ------- |
@@ -806,6 +808,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0476-number-complement](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
@@ -834,4 +837,8 @@ Collection of LeetCode questions Submissions of  mine!
 | ------- |
 | [0729-my-calendar-i](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0731-my-calendar-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
