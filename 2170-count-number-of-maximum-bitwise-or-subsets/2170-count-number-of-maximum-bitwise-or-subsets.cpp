@@ -1,11 +1,11 @@
 class Solution {
-    void solve(int ind,int ans,int &cnt,int n,int maxi,vector<int>& nums){
-        if(ans==maxi){
-            cnt++;
+    int solve(int ind,int ans,int n,int maxi,vector<int>& nums){
+        if(ind>=n){
+            return (ans==maxi);
         }
-        for(int i=ind;i<n;i++){
-            solve(i+1,(ans|nums[i]),cnt,n,maxi,nums);
-        }
+        int x=solve(ind+1,ans,n,maxi,nums);
+        int y=solve(ind+1,ans|nums[ind],n,maxi,nums);
+        return (x+y);
     }
 public:
     int countMaxOrSubsets(vector<int>& nums) {
@@ -15,7 +15,7 @@ public:
             maxi|=it;
         }
         int n=nums.size();
-        solve(0,0,cnt,n,maxi,nums);
-        return cnt;
+        int ans=solve(0,0,n,maxi,nums);
+        return ans;
     }
 };
