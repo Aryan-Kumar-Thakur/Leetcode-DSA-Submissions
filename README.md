@@ -292,6 +292,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1207-delete-nodes-and-return-forest](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -512,6 +513,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [0046-permutations](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/0140-word-break-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
@@ -543,6 +545,7 @@ Collection of LeetCode questions Submissions of  mine!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1508-longest-happy-prefix) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aryan-Kumar-Thakur/DSA-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
